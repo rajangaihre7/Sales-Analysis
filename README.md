@@ -1,7 +1,9 @@
-Data Set Contain sales data of goldstar shoes with having parameter 'Area' , 'Product' , 'Units' , 'Revenue' , ' Delivery Performance','Return' , 'Customer Satisfaction'
-Here For analysis I used Pivot table find some insigths which are  as follows:
+Data Set Contain sales data of goldstar shoes with having parameter 'Area' , 'Product' , 'Units' , 'Revenue' , ' Delivery Performance','Return' , 'Customer Satisfaction' 
+
+For analysis I used Pivot table find some insigths which are  as follows:
 
 1.Product trend by year with respect to different area for different 
+
 2.Sales of different shoes by Area.
 3.Total Revenue per year by Area.
 4.Cusitmer satisfaction on different Product
